@@ -72,6 +72,6 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 📫 Get in Touch
-Feel free to connect with me through [LinkedIn](#) or email me at [antonyjoshua413@gmail.com](mailto:your-email@example.com).
+Feel free to connect with me through [https://www.linkedin.com/in/antony-joshua-471704aj/](#) or email me at [antonyjoshua413@gmail.com](mailto:your-email@example.com).
 
 Thank you for visiting my portfolio!
