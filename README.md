@@ -10,24 +10,24 @@ I am a software tester with experience in various testing tools and frameworks. 
 Here are some of the tools and technologies I work with:
 
 ### Testing Frameworks & Tools
-- **Selenium** <img src="https://www.angleritech.com/wp-content/uploads/2017/09/selenium-logo.png" alt="Selenium Logo" width="50" height="50" style="vertical-align:middle;"/> 
-- **TestNG** <img src="https://testng.org/doc/images/testng-logo.png" alt="TestNG Logo" width="20" height="20"/>
-- **Cucumber** <img src="https://cucumber.io/images/cucumber_logo.svg" alt="Cucumber Logo" width="20" height="20"/>
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) **Selenium**
+- ![TestNG](https://img.shields.io/badge/TestNG-00BFFF?style=flat&logo=testng&logoColor=white) **TestNG**
+- ![Cucumber](https://img.shields.io/badge/Cucumber-00B300?style=flat&logo=cucumber&logoColor=white) **Cucumber**
 
 ### Programming Languages
-- **Java** <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg" alt="Java Logo" width="20" height="20"/>
+- ![Java](https://img.shields.io/badge/Java-FE7F22?style=flat&logo=java&logoColor=white) **Java**
 
 ### CI/CD & DevOps
-- **Jenkins** <img src="https://www.jenkins.io/images/logos/jenkins.svg" alt="Jenkins Logo" width="20" height="20"/>
-- **Maven** <img src="https://maven.apache.org/images/maven-logo-34x34.png" alt="Maven Logo" width="20" height="20"/>
-- **Git** <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"/>
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) **Jenkins**
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) **Maven**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) **Git**
 
 ### API Testing
-- **Postman** <img src="https://www.postman.com/postman-docs/assets/logos/postman-logo.png" alt="Postman Logo" width="20" height="20"/>
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) **Postman**
 
 ### Databases
-- **MongoDB** <img src="https://www.mongodb.com/assets/images/global/logo/mongodb_logo_horizontal.svg" alt="MongoDB Logo" width="20" height="20"/>
-- **MySQL** <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="20" height="20"/>
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) **MongoDB**
+- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) **MySQL**
 
 ---
 
