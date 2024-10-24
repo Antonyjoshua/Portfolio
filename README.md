@@ -1,6 +1,6 @@
 # 👋 Welcome to My Portfolio!
 
-<img src="profile-picture.jpg" alt="Antony Joshua" width="100" height="100">
+<img src="1712862821329.jfif" alt="Antony Joshua" width="100" height="100">
 
 ## 🚀 About Me
 I am a software tester with experience in various testing tools and frameworks. I am passionate about delivering high-quality software and ensuring a seamless user experience.
