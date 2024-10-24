@@ -10,7 +10,7 @@ I am a software tester with experience in various testing tools and frameworks. 
 Here are some of the tools and technologies I work with:
 
 ### Testing Frameworks & Tools
-- **Selenium** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Selenium_logo.png" alt="Selenium Logo" width="20" height="20"/>
+- **Selenium** <img src="https://www.angleritech.com/wp-content/uploads/2017/09/selenium-logo.png" alt="Selenium Logo" width="20" height="20"/>
 - **TestNG** <img src="https://testng.org/doc/images/testng-logo.png" alt="TestNG Logo" width="20" height="20"/>
 - **Cucumber** <img src="https://cucumber.io/images/cucumber_logo.svg" alt="Cucumber Logo" width="20" height="20"/>
 
