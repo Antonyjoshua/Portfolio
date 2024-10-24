@@ -1,87 +1,47 @@
-# 🎨 [Your Name]'s Creative Portfolio
+# 👋 Welcome to My Portfolio!
 
-Hello there! I'm **[Your Name]**, a [Your Profession/Field] who loves to blend creativity with technology. Based in [Your Location], I specialize in [your specialties or areas of interest]. My journey in [Your Field] has been an exciting adventure, and I’m thrilled to share it with you!
-
----
-
-## 🚀 Who Am I?
-
-I’m a passionate creator who believes in the power of [Your Core Belief or Philosophy]. Here’s a little more about me:
-
-- 🔍 **Currently Exploring**: [Current Project or Area of Study]
-- 🛠️ **Technologies I Love**: 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
-  ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=ffffff)
-- 🌈 **Fun Fact**: Did you know that [insert interesting or quirky fact about yourself]?
+## 🚀 About Me
+I am a software tester with experience in various testing tools and frameworks. I am passionate about delivering high-quality software and ensuring a seamless user experience.
 
 ---
 
-## 💡 My Projects
+## 🛠️ Skills
 
-### 🌟 Featured Works
+Here are some of the tools and technologies I work with:
 
-1. **[Project Name](Project URL)**  
-   *A short description that highlights the problem solved or the innovative aspect of the project.*  
-   **Tech Stack**: 
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) 
-   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) 
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)  
-   **Highlights**: [Special Features or Achievements]
+### Testing Frameworks & Tools
+- **Selenium** ![Selenium Logo](https://upload.wikimedia.org/wikipedia/commons/9/9b/Selenium_logo.png)
+- **TestNG** ![TestNG Logo](https://testng.org/doc/images/testng-logo.png)
+- **Cucumber** ![Cucumber Logo](https://cucumber.io/images/cucumber_logo.svg)
 
-2. **[Project Name](Project URL)**  
-   *An overview that emphasizes your role and contributions.*  
-   **Tech Stack**: 
-   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000) 
-   ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=ffffff)  
-   **Highlights**: [Special Features or Achievements]
+### Programming Languages
+- **Java** ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg)
 
-3. **[Project Name](Project URL)**  
-   *A brief note about the impact of this project or its user base.*  
-   **Tech Stack**: 
-   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) 
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)  
-   **Highlights**: [Special Features or Achievements]
+### CI/CD & DevOps
+- **Jenkins** ![Jenkins Logo](https://www.jenkins.io/images/logos/jenkins.svg)
+- **Maven** ![Maven Logo](https://maven.apache.org/images/maven-logo-34x34.png)
+- **Git** ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+
+### API Testing
+- **Postman** ![Postman Logo](https://www.postman.com/postman-docs/assets/logos/postman-logo.png)
+
+### Databases
+- **MongoDB** ![MongoDB Logo](https://www.mongodb.com/assets/images/global/logo/mongodb_logo_horizontal.svg)
+- **MySQL** ![MySQL Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
 
 ---
 
-## 🔧 Skills & Tools
+## 📂 Projects
 
-| **Category**   | **Technologies**                                  |
-|----------------|---------------------------------------------------|
-| **Languages**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) |
-| **Frameworks**  | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000) ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=ffffff) |
-| **Tools**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) |
-| **Design**     | ![Figma](https://img.shields.io/badge/Figma-0AC97C?style=flat-square&logo=figma&logoColor=ffffff) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF26B2?style=flat-square&logo=adobexd&logoColor=ffffff) |
+### [Project Name 1](#)
+A brief description of your project.
 
----
-
-## 🌍 Let's Connect!
-
-I’m always open to new opportunities, collaborations, or just a friendly chat. You can find me on:
-
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Personal Blog/Website](Your Website URL)
-
-Feel free to drop me a message anytime!
+### [Project Name 2](#)
+A brief description of your project.
 
 ---
 
-## 📄 Download My Resume
+## 📫 Get in Touch
+Feel free to connect with me through [LinkedIn](#) or email me at [your-email@example.com](mailto:your-email@example.com).
 
-You can view and download my resume [here](Link to your resume).
-
----
-
-## 🌱 Contributions
-
-If you find my work valuable, consider supporting my projects by giving them a ⭐ on GitHub or sharing them with others. Together, we can create amazing things!
-
----
-
-Thank you for visiting my portfolio! I hope you find inspiration in my work as much as I do in the community around me.
-
----
+Thank you for visiting my portfolio!
