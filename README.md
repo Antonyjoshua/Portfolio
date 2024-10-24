@@ -1,5 +1,7 @@
 # 👋 Welcome to My Portfolio!
 
+![Your Name](path/to/your/profile-picture.jpg)
+
 ## 🚀 About Me
 I am a software tester with experience in various testing tools and frameworks. I am passionate about delivering high-quality software and ensuring a seamless user experience.
 
