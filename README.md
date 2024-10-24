@@ -1,3 +1,5 @@
+![Banner](1711141785878.jfif)
+
 # 👋 Welcome to My Portfolio!
 
 <img src="1712862821329.jfif" alt="Antony Joshua" width="100" height="100">
