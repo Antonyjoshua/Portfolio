@@ -14,9 +14,9 @@ I am a software tester with experience in various testing tools and frameworks. 
 Here are some of the tools and technologies I work with:
 
 ### Testing Frameworks & Tools
-- **Selenium** ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-- **TestNG** ![TestNG](https://img.shields.io/badge/TestNG-009688?style=for-the-badge&logo=testng&logoColor=white)
-- **Cucumber** ![Cucumber](https://img.shields.io/badge/Cucumber-25D366?style=for-the-badge&logo=cucumber&logoColor=white)
+ ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+ ![TestNG](https://img.shields.io/badge/TestNG-009688?style=for-the-badge&logo=testng&logoColor=white)
+ ![Cucumber](https://img.shields.io/badge/Cucumber-25D366?style=for-the-badge&logo=cucumber&logoColor=white)
 
 ### Programming Languages
 - **Java** ![Java](https://img.shields.io/badge/Java-FC6F20?style=for-the-badge&logo=java&logoColor=white)
