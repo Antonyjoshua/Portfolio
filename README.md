@@ -37,11 +37,15 @@ Here are some of the tools and technologies I work with:
  
 ## 🎓 Certifications
 
-### [Selenium Automation Testing](https://www.coursera.org/)
-- **Issued by:** Coursera
-- **Date:** 05/2023
+### [Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/certificate/UC-4a0f2334-2642-4a61-91ac-32c92c02ad2f/)
+- **Issued by:** Udemy
+- **Date:** 10/24/2024
 - **Description:** This certification focuses on using Selenium WebDriver for automation testing, including building and running test scripts to automate browser actions.
+   Java Basics core + Selenium Webdriver + Advanced Selenium  + Framework design ( TestNG, ANT, Pageobject, Maven, Jenkins, Excel Datadriven, Cucumber, log4j ) + Selenium 
+   Grid + DataBase Testing + Performance Testing on Selenium scripts + Mobile testing Basics 
 
+ ---
+ 
 ## 📂 Projects
 
 ### [MyHotel AI](#)
