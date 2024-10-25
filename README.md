@@ -33,7 +33,14 @@ Here are some of the tools and technologies I work with:
  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+ ---
+ 
+## 🎓 Certifications
+
+### [Selenium Automation Testing](https://www.coursera.org/)
+- **Issued by:** Coursera
+- **Date:** 05/2023
+- **Description:** This certification focuses on using Selenium WebDriver for automation testing, including building and running test scripts to automate browser actions.
 
 ## 📂 Projects
 
